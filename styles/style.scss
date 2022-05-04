@@ -33,13 +33,13 @@ body{}
 header{
 width: 100%;
 height: 700px;
-background-image: url(./img/Union.png);
+background-image: url(/img/Union.png);
 display: flex;
 justify-content: center;
 align-items: center;
 background-position: center;
 @include dm{
-    background: linear-gradient( rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9) ), url('./img/Union.png');
+    background: linear-gradient( rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9) ), url('/img/Union.png');
     background-position: center;
 }
 
@@ -209,7 +209,7 @@ flex-grow: 1;
 // width: 300px;
 width: 100%;
 height: 400px;
-background-image: url(./img/step1.png);
+background-image: url(gitgi/img/step1.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
