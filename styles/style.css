@@ -52,7 +52,7 @@ h6 {
 header {
   width: 100%;
   height: 700px;
-  background-image: url(../img/Union.png);
+  background-image: url(/img/Union.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -66,8 +66,8 @@ header {
 }
 @media screen and (max-width: 920px) {
   header {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(1, 1, 1, 0.1)), to(rgba(0, 0, 0, 0.9))), url("../img/Union.png");
-    background: linear-gradient(rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9)), url("../img/Union.png");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(1, 1, 1, 0.1)), to(rgba(0, 0, 0, 0.9))), url("/img/Union.png");
+    background: linear-gradient(rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9)), url("/img/Union.png");
     background-position: center;
   }
 }
