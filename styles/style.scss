@@ -39,7 +39,7 @@ justify-content: center;
 align-items: center;
 background-position: center;
 @include dm{
-    background: linear-gradient( rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9) ), url('/img/Union.png');
+    background: linear-gradient( rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9) ), url('./img/Union.png');
     background-position: center;
 }
 
@@ -209,7 +209,7 @@ flex-grow: 1;
 // width: 300px;
 width: 100%;
 height: 400px;
-background-image: url(/img/step1.png);
+background-image: url(./img/step1.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -254,7 +254,7 @@ font-weight: 700;
     // width: 300px;
     width: 100%;
     height: 400px;
-    background-image: url(/img/step2.png);
+    background-image: url(./img/step2.png);
     margin: 0 20px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -298,7 +298,7 @@ padding-left: 25px;
         // width: 300px;
         width: 100%;
         height: 400px;
-        background-image: url(/img/step3.png);
+        background-image: url(./img/step3.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -407,7 +407,7 @@ padding-left: 25px;
                 margin-left: 85px;
                 margin-top: 85px;
                  position: absolute;
-                 background-image: url(/img/music2.png);
+                 background-image: url(./img/music2.png);
                  background-repeat: no-repeat;
                  background-position: center;
              
@@ -426,7 +426,7 @@ padding-left: 25px;
                margin-left: 85px;
                margin-top: 85px;
                 position: absolute;
-                background-image: url(/img/brush.png);
+                background-image: url(./img/brush.png);
                 background-repeat: no-repeat;
                 background-position: center;
             
@@ -445,7 +445,7 @@ padding-left: 25px;
            margin-left: 85px;
            margin-top: 85px;
             position: absolute;
-            background-image: url(/img/camera.png);
+            background-image: url(./img/camera.png);
             background-repeat: no-repeat;
             background-position: center;
         
@@ -463,7 +463,7 @@ padding-left: 25px;
        margin-left: 85px;
        margin-top: 85px;
         position: absolute;
-        background-image: url(/img/Shape.png);
+        background-image: url(./img/Shape.png);
         background-repeat: no-repeat;
         background-position: center;
     

@@ -66,8 +66,8 @@ header {
 }
 @media screen and (max-width: 920px) {
   header {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(1, 1, 1, 0.1)), to(rgba(0, 0, 0, 0.9))), url("/img/Union.png");
-    background: linear-gradient(rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9)), url("/img/Union.png");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(1, 1, 1, 0.1)), to(rgba(0, 0, 0, 0.9))), url("./img/Union.png");
+    background: linear-gradient(rgba(1, 1, 1, 0.1), rgba(0, 0, 0, 0.9)), url("./img/Union.png");
     background-position: center;
   }
 }
@@ -282,7 +282,7 @@ nav .verification .aWrapper a {
 .dreamshareSection .step1 {
   width: 100%;
   height: 400px;
-  background-image: url(/img/step1.png);
+  background-image: url(./img/step1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -341,7 +341,7 @@ nav .verification .aWrapper a {
 .dreamshareSection .step2 {
   width: 100%;
   height: 400px;
-  background-image: url(/img/step2.png);
+  background-image: url(./img/step2.png);
   margin: 0 20px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -401,7 +401,7 @@ nav .verification .aWrapper a {
 .dreamshareSection .step3 {
   width: 100%;
   height: 400px;
-  background-image: url(/img/step3.png);
+  background-image: url(./img/step3.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -558,7 +558,7 @@ nav .verification .aWrapper a {
   margin-left: 85px;
   margin-top: 85px;
   position: absolute;
-  background-image: url(/img/music2.png);
+  background-image: url(./img/music2.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -575,7 +575,7 @@ nav .verification .aWrapper a {
   margin-left: 85px;
   margin-top: 85px;
   position: absolute;
-  background-image: url(/img/brush.png);
+  background-image: url(./img/brush.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -592,7 +592,7 @@ nav .verification .aWrapper a {
   margin-left: 85px;
   margin-top: 85px;
   position: absolute;
-  background-image: url(/img/camera.png);
+  background-image: url(./img/camera.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -609,7 +609,7 @@ nav .verification .aWrapper a {
   margin-left: 85px;
   margin-top: 85px;
   position: absolute;
-  background-image: url(/img/Shape.png);
+  background-image: url(./img/Shape.png);
   background-repeat: no-repeat;
   background-position: center;
 }
